@@ -61,7 +61,7 @@ prowler aws            # read-only scan; outputs HTML/CSV/JSON to ./output
 - **Phase 3 (governance):** Organizations SCPs, AI-service governance, recurring Prowler scans.
 
 ## 🔗 Related work
-- **[Secure AWS Landing Zone (Terraform)](#)** — remediates several of these findings *as code* (CloudTrail, GuardDuty, least-privilege IAM, encryption). *Assess here → remediate there.*
+- **[Secure AWS Landing Zone (Terraform)](https://github.com/thiswasdre/aws-secure-landing-zone)** — remediates several of these findings *as code* (CloudTrail, GuardDuty, least-privilege IAM, encryption). *Assess here → remediate there.*
 - **[flaws.cloud labs](https://github.com/thiswasdre/AWS---Security---Labs)** — hands-on exploitation of the kinds of misconfigurations this assessment detects.
 
 ## 💡 Skills demonstrated
