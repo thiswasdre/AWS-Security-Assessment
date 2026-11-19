@@ -1,0 +1,7 @@
+grc/
+├── README.md                          ← rename grc_README.md
+├── GRC_Risk_Register.xlsx             ← (delivered earlier)
+├── GRC_Risk_Register.pdf
+├── SOC2_Readiness_Assessment.xlsx     ← (delivered earlier)
+├── SOC2_Readiness_Assessment.pdf
+└── Information_Security_Policy.pdf
